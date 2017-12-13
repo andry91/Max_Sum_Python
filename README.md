@@ -58,7 +58,7 @@ An example about **ConflictsChart.png**
 
 All parameters **are required**. The Test file (Main) is located in _Max_Sum_Python/Testing/Colored_Graph_Coloring.py_
 ```
-python Colored_Graph_Testing -iterations=Iter   -instances=Inst -variables=V -op=O              -reportMaxSum=reportM -reportFactorGraph=reportG -reportCharts=reportC [-h]
+python Colored_Graph_Testing -iterations=Iter   -instances=Inst -variables=V -op=O  -reportMaxSum=reportM -reportFactorGraph=reportG -reportCharts=reportC [-h]
 ```
 
  - **iterations**: number of iterations
