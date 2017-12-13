@@ -1,4 +1,4 @@
-﻿## MaxSum Algorithm in Python##
+﻿## MaxSum Algorithm in Python ##
 
 ----------
 
