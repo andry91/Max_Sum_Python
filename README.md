@@ -27,7 +27,7 @@ The _average of the rmessages differences_ and the _number of conflicts_ tend to
 
 When the number of conflicts and the average of the rmessages differences tends to 0, MaxSum algorithm should converge and it should terminate.
 
-By default the results for each run are: _factor_graph_run_x.txt_ is a report that provides a textual description of the factor graph and _TestingColoring_Report_RUN_x.txt_ is a report where for each iteration of the run there are the number of conflicts and the rmessages difference (x represents the number of instance). Moreover, after each run the program creates two graphs that plot the average message difference _ChartMediaDiffLink_RUN_x.png_ and the number of conflicts _ConflictsChart_RUN_x.png_ (y axis) against the iterations (x axis). 
+By default the results for each run are: _factor_graph_run_x.txt_ is a report that provides a textual description of the factor graph and _TestingColoring_Report_RUN_x.txt_ is a report where for each iteration of the run there are the number of conflicts and the message difference (x represents the number of instance). Moreover, after each run the program creates two graphs that plot the average message difference _ChartMediaDiffLink_RUN_x.png_ and the number of conflicts _ConflictsChart_RUN_x.png_ (y axis) against the iterations (x axis). 
 
 ----------
 
